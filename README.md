@@ -5,11 +5,11 @@
 -САма карточка спозиционированна 50% от верха и 50% от левого края + выполнено смещение на -50% от ширины и высоты самой карточки
 - Познакоимились с генераторами изобр(смотри интелект карту,ветка изобр - https://goo.su/front)
 - Сформировали кнопка из тега а-добавили в кнопку:
-  --display: inline-block;(смешанный элемент)
-  --border: 2px solid ;
-  --text-transform: uppercase;
-  --letter-spacing: 5px;
-  --border-radius: 10px;
-  --transition: 0.7s;
-  --воспользовались св-м .btnCard:hover(при наведении курсора мышки на блок)
+    -display: inline-block;(смешанный элемент)
+    -border: 2px solid ;
+    -text-transform: uppercase;
+    -letter-spacing: 5px;
+    -border-radius: 10px;
+    -transition: 0.7s;
+    -воспользовались св-м .btnCard:hover(при наведении курсора мышки на блок)
   - Ограничели проект одним экраном(html{height: 100%;}body{height: 100%;})
